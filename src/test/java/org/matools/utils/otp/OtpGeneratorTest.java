@@ -1,8 +1,7 @@
-package org.matools.utils;
+package org.matools.utils.otp;
 
 
 import org.junit.jupiter.api.Test;
-import org.matools.utils.otp.OtpGenerator;
 
 import static org.junit.jupiter.api.Assertions.*;
 
